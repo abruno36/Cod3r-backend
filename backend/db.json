@@ -1,14 +1,9 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
-    },
-    {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "price": 12000.89
+      "price": "12000.89"
     },
     {
       "id": 3,
@@ -23,21 +18,32 @@
     {
       "id": 5,
       "name": "Teclado",
-      "price": 55.89
+      "price": "55.89"
     },
     {
       "name": "Fone de ouvido sem fio JBL520 TT",
-      "price": 290.89,
+      "price": "290.89",
       "id": 6
     },
     {
       "id": 7,
       "name": "Fone de ouvido sem fio JBL510",
-      "price": 199.89
+      "price": "199.89"
     },
     {
-      "name": "Geladeira Eletrolux Plus",
+      "name": "Teste",
+      "price": "123.49",
       "id": 8
+    },
+    {
+      "name": "notebook",
+      "price": "4500.98",
+      "id": 9
+    },
+    {
+      "name": "Geladeira",
+      "price": "5700.98",
+      "id": 10
     }
   ]
 }
